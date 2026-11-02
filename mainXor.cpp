@@ -1,7 +1,7 @@
 #include <iostream>
+#include "helloWorld.h"
 
-int main() {
-    double dummy;
-    std::cout << "Hello World!" << std::endl;
+int main(void) {
+    helloWorld();
     return 0;
 }

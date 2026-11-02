@@ -5,3 +5,5 @@ add_subdirectory(libProject01)
 
 add_test(NAME mainXor COMMAND mainXor)
 add_executable(mainXor mainXor.cpp)
+
+target_link_libraries(mainXor Project01)
