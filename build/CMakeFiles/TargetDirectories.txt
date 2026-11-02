@@ -1,0 +1,4 @@
+/gpfs/home/ferhernandez/assignments/project01/build/CMakeFiles/mainXor.dir
+/gpfs/home/ferhernandez/assignments/project01/build/CMakeFiles/test.dir
+/gpfs/home/ferhernandez/assignments/project01/build/CMakeFiles/edit_cache.dir
+/gpfs/home/ferhernandez/assignments/project01/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+Start testing: Nov 02 16:39 EST
+----------------------------------------------------------
+1/1 Testing: mainXor
+1/1 Test: mainXor
+Command: "/gpfs/home/ferhernandez/assignments/project01/build/mainXor"
+Directory: /gpfs/home/ferhernandez/assignments/project01/build
+"mainXor" start time: Nov 02 16:39 EST
+Output:
+----------------------------------------------------------
+Hello World!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mainXor" end time: Nov 02 16:39 EST
+"mainXor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 02 16:39 EST
